@@ -301,12 +301,12 @@ my_list + [4]       # Python calls my_list.__add__([4])
 
 ## Quick Facts
 
-- 📊 157 total built-ins in Python 3
-- 🏎️ All implemented in C for speed
-- 🔧 Most common: `len()`, `print()`, `range()`, `list()`, `dict()`
-- 🎯 Most magic methods: `dict` and `list` classes
-- ⚠️ Most exceptions: 69 different exception classes
-- 🔒 Constants: Only 6 (`True`, `False`, `None`, `Ellipsis`, `NotImplemented`, `__debug__`)
+- 157 total built-ins in Python 3
+- All implemented in C for speed
+- Most common: `len()`, `print()`, `range()`, `list()`, `dict()`
+- Most magic methods: `dict` and `list` classes
+- Most exceptions: 69 different exception classes
+- Constants: Only 6 (`True`, `False`, `None`, `Ellipsis`, `NotImplemented`, `__debug__`)
 
 ## Further Reading
 
